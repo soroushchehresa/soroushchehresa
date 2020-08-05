@@ -3,8 +3,6 @@
   
 [![Soroush Chehresa StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9516173)](https://stackoverflow.com/users/9516173/soroush-chehresa)
 
-<br>
-
 # Hello, world! 👋
 
 #### You can find me on:
