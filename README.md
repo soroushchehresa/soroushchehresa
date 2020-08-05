@@ -1,8 +1,7 @@
 
 <div align="center">
+<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 <br>
-  
-[![Soroush Chehresa StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9516173)](https://stackoverflow.com/users/9516173/soroush-chehresa)
   
 # Hello, world! 👋
 
@@ -11,7 +10,8 @@
 <br>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=soroushchehresa&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=soroushchehresa&show_icons=true&line_height=45&include_all_commits=true" />
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=9516173" />
 <br>
 <br>
 </div>
