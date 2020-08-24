@@ -1,6 +1,6 @@
-
 <div align="center">
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=9516173"  />
+<br>
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=9516173"  />
 <br>
 <br>
   
@@ -32,6 +32,5 @@
 [![ReadMe Card](https://github-readme-stats-puce-alpha.vercel.app/api/pin/?username=soroushchehresa&repo=map-nearest-location)](https://github.com/soroushchehresa/map-nearest-location)
 [![ReadMe Card](https://github-readme-stats-puce-alpha.vercel.app/api/pin/?username=soroushchehresa&repo=react-ignore-rerender&update)](https://github.com/soroushchehresa/react-ignore-rerender)
 
-<br>
 <br>
 </div>
