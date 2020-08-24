@@ -33,13 +33,5 @@
 [![ReadMe Card](https://github-readme-stats-puce-alpha.vercel.app/api/pin/?username=soroushchehresa&repo=react-ignore-rerender&update)](https://github.com/soroushchehresa/react-ignore-rerender)
 
 <br>
-
-## Latest article
-
-<a href="https://medium.com/@soroushchehresa">
-  <img src="https://github-readme-medium.vercel.app/?username=soroushchehresa&limit=1" />
-</a>
-
-<br>
 <br>
 </div>
