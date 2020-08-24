@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=9516173"  />
 <br>
   
 # Hello, world! 👋
@@ -10,8 +10,14 @@
 <br>
 <br>
 <br>
-<img src="https://github-readme-stats-puce-alpha.vercel.app/api?username=soroushchehresa&show_icons=true&line_height=45&include_all_commits=true" />  <img src="https://github-readme-stackoverflow.vercel.app/?userID=9516173"  />
+
+## Statistics
+
+<img src="https://github-readme-stats-puce-alpha.vercel.app/api?username=soroushchehresa&show_icons=true&line_height=40&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soroushchehresa)](https://github.com/soroushchehresa)
+
 <br>
+
+## Repositories
 
 [![ReadMe Card](https://github-readme-stats-puce-alpha.vercel.app/api/pin/?username=soroushchehresa&repo=awesome-coronavirus)](https://github.com/soroushchehresa/awesome-coronavirus) 
 [![ReadMe Card](https://github-readme-stats-puce-alpha.vercel.app/api/pin/?username=soroushchehresa&repo=unsplash-wallpapers)](https://github.com/soroushchehresa/unsplash-wallpapers)
@@ -27,6 +33,14 @@
 [![ReadMe Card](https://github-readme-stats-puce-alpha.vercel.app/api/pin/?username=soroushchehresa&repo=iran-coronavirus)](https://github.com/soroushchehresa/iran-coronavirus)
 [![ReadMe Card](https://github-readme-stats-puce-alpha.vercel.app/api/pin/?username=soroushchehresa&repo=map-nearest-location)](https://github.com/soroushchehresa/map-nearest-location)
 [![ReadMe Card](https://github-readme-stats-puce-alpha.vercel.app/api/pin/?username=soroushchehresa&repo=react-ignore-rerender&update)](https://github.com/soroushchehresa/react-ignore-rerender)
+
+<br>
+
+## My Latest Medium Article
+
+<a href="https://medium.com/@soroushchehresa">
+  <img src="https://github-readme-medium.vercel.app/?username=soroushchehresa&limit=1" />
+</a>
 
 <br>
 <br>
