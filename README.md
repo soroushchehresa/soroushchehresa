@@ -13,7 +13,7 @@
 
 ## Statistics
 
-<img src="https://github-readme-stats-puce-alpha.vercel.app/api?username=soroushchehresa&show_icons=true&line_height=40&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soroushchehresa)](https://github.com/soroushchehresa)
+[![Stats](https://github-readme-stats-puce-alpha.vercel.app/api?username=soroushchehresa&show_icons=true&line_height=40&include_all_commits=true)](https://github.com/soroushchehresa) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soroushchehresa)](https://github.com/soroushchehresa)
 
 <br>
 
