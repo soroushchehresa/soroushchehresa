@@ -26,7 +26,7 @@
 [![ReadMe Card](https://github-readme-stats-puce-alpha.vercel.app/api/pin/?username=soroushchehresa&repo=github-react-native-apollo-graphql)](https://github.com/soroushchehresa/github-react-native-apollo-graphql)
 [![ReadMe Card](https://github-readme-stats-puce-alpha.vercel.app/api/pin/?username=soroushchehresa&repo=iran-coronavirus)](https://github.com/soroushchehresa/iran-coronavirus)
 [![ReadMe Card](https://github-readme-stats-puce-alpha.vercel.app/api/pin/?username=soroushchehresa&repo=map-nearest-location)](https://github.com/soroushchehresa/map-nearest-location)
-[![ReadMe Card](https://github-readme-stats-puce-alpha.vercel.app/api/pin/?username=soroushchehresa&repo=react-ignore-rerender)](https://github.com/soroushchehresa/react-ignore-rerender)
+[![ReadMe Card](https://github-readme-stats-puce-alpha.vercel.app/api/pin/?username=soroushchehresa&repo=react-ignore-rerender&update)](https://github.com/soroushchehresa/react-ignore-rerender)
 
 <br>
 <br>
