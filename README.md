@@ -34,7 +34,7 @@
 
 <br>
 
-## My Latest Medium Article
+## Latest article
 
 <a href="https://medium.com/@soroushchehresa">
   <img src="https://github-readme-medium.vercel.app/?username=soroushchehresa&limit=1" />
