@@ -14,7 +14,6 @@
   <br>
   <br>
   <br>
-  <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=soroushchehresa" alt="visitor badge"/>
   <br>
 </div>
