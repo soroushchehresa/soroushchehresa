@@ -4,7 +4,7 @@
  # Hello, world! 👋
 
   #### You can find me on:
-  [LinkedIn](https://www.linkedin.com/in/soroush-chehresa) - [Stack Overflow](https://stackoverflow.com/users/9516173/soroush-chehresa) - [Medium](https://medium.com/@soroushchehresa) - [Dribbble](https://dribbble.com/soroushchehresa) - [Twitter](https://twitter.com/soroushchehresa) - [Email](mailto:s1996ch@gmail.com)
+  [LinkedIn](https://www.linkedin.com/in/soroush-chehresa) - [Stack Overflow](https://stackoverflow.com/users/9516173/soroush-chehresa) - [Medium](https://medium.com/@soroushchehresa) - [Dribbble](https://dribbble.com/soroushchehresa) - [Email](mailto:s1996ch@gmail.com)
   <br>
   <br>
   <br>
